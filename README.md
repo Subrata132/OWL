@@ -18,6 +18,4 @@
 
 ## 👍 Acknowledgement
 The codebase of data generation is adapted from [**Spatial-AST**](https://github.com/zszheng147/Spatial-AST). We are also grateful for their contribution.
-=======
-* Run [main.py](./BiDepth/main.py) after updating the arguments accordingly.
->>>>>>> a6abff6408ea0ef34062364537e8c94a83b80c59
+
